@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nilesh Sahare</h1>
-<h3 align="center", color="blue">I'm a passionate software developer with a strong focus on Java, MySql, HTML, CSS, JavaScript, React.js, SpringBoot Cloud, AWS, DevOps.
+<h3 align="center", color="blue">I'm a passionate software developer with a strong focus on Java, MySql, HTML, CSS, JavaScript, React.js, SpringBoot, Cloud, AWS, DevOps tools.
   I'm on a continuous learning path, actively acquiring knowledge and hands-on experience with DevOps tools and practices.</h3>
   
 
