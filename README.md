@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nilesh Sahare</h1>
-<h3 align="center">Software Engineer | DevOps Learner</h3>
+<h3 align="center">I'm a passionate software developer with a strong focus on Java, MySql, HTML, CSS, JavaScript, React.js, SpringBoot Cloud, AWS, DevOps.
+  I'm on a continuous learning path, actively acquiring knowledge and hands-on experience with DevOps tools and practices.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshsahare07&label=Profile%20views&color=0e75b6&style=flat" alt="nileshsahare07" /> </p>
 
