@@ -1,8 +1,9 @@
+
 <h1 align="center">Hi 👋, I'm Nilesh Sahare</h1>
 <h3 align="center", color="blue">I'm a passionate software developer with a strong focus on Java, MySql, HTML, CSS, JavaScript, React.js, SpringBoot Cloud, AWS, DevOps.
   I'm on a continuous learning path, actively acquiring knowledge and hands-on experience with DevOps tools and practices.</h3>
   
-![Uploading Free Vector _ Man working on desktop computer.jpeg…]()
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshsahare07&label=Profile%20views&color=0e75b6&style=flat" alt="nileshsahare07" /> </p>
 
@@ -11,6 +12,7 @@
 - 📝 I regularly write articles on [https://hashnode.com/@NileshSahare](https://hashnode.com/@NileshSahare)
 
 - 📫 How to reach me **nileshsahare71@gmail.com**
+- <img src="https://miro.medium.com/v2/resize:fit:1400/1*0hcduJ-1b1OU7gPDb-Uz0A.jpeg" alt="DevOps">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
