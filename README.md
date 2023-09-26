@@ -12,6 +12,8 @@
 - 📝 I regularly write articles on [https://hashnode.com/@NileshSahare](https://hashnode.com/@NileshSahare)
 
 - 📫 How to reach me **nileshsahare71@gmail.com**
+
+- ⚡ Fun fact **fitness freak, love to Travel**
 - <img src="https://miro.medium.com/v2/resize:fit:1400/1*0hcduJ-1b1OU7gPDb-Uz0A.jpeg" alt="DevOps">
 
 <h3 align="left">Connect with me:</h3>
